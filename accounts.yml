@@ -1,0 +1,17 @@
+accounts:
+  message: Welcome to EasyBank Account
+  domain: Savings
+  contactDetails:
+    name: Neeraj
+    email: neeraj@gmail.com
+  onCallSupport:
+    - 12345
+    - 23456
+  address:
+    country: india
+    city: Bangalore
+    state: karnataka
+
+build:
+  version: "3.0"
+

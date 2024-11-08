@@ -1,0 +1,18 @@
+accounts:
+  message: Welcome to Prod EasyBank Account
+  domain: Savings Prod
+  contactDetails:
+    name: Neeraj
+    email: neeraj@gmail.com
+  onCallSupport:
+    - 12345
+    - 23456
+  address:
+    country: India Prod
+    city: Bangalore Prod
+    state: karnataka Prod
+
+
+build:
+  version: "4.0"
+
