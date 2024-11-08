@@ -3,7 +3,7 @@ accounts:
   domain: Savings QA
   contactDetails:
     name: Neeraj
-    email: neeraj@gmail.com
+    email: "{cipher}6eea82923fe26ceac4320d50ef0cc5975e6c0000a2726d4c55156c958d89ab07579d7a5d06671e2e151aba053da1763b"
   onCallSupport:
     - 12345
     - 23456
