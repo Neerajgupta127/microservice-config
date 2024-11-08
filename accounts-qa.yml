@@ -8,9 +8,9 @@ accounts:
     - 12345
     - 23456
   address:
-    country: India QA
-    city: Bangalore QA
-    state: karnataka QA
+    country: India QA2
+    city: Bangalore QA2
+    state: karnataka QA2
 
 
 build:
