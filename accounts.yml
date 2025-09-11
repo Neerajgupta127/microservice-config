@@ -3,7 +3,7 @@ accounts:
   domain: Savings
   contactDetails:
     name: Neeraj
-    email: neeraj@gmail.com
+    email: "{cipher}2f190c8133da613fb83e0aaf213b3305e6c6cf1f2fa6ed7cf1e17549fab5944d537495114bbf4a01fbf7df49da3b96d5"
   onCallSupport:
     - 12345
     - 23456
