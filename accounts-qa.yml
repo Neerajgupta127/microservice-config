@@ -1,18 +1,1 @@
-accounts:
-  message: Welcome to QA EasyBank Account
-  domain: Savings QA
-  contactDetails:
-    name: Neeraj
-    email: "{cipher}6eea82923fe26ceac4320d50ef0cc5975e6c0000a2726d4c55156c958d89ab07579d7a5d06671e2e151aba053da1763b"
-  onCallSupport:
-    - 12345
-    - 23456
-  address:
-    country: India QA9
-    city: Bangalore QA9
-    state: karnataka QA9
-
-
-build:
-  version: "5.0"
 
